@@ -39,7 +39,7 @@ It’s part of a growing collection of over **30+ MERN and AI-based projects** a
 
 ## 🌍 **Live Links**
 
-🔗 **Frontend (Live):** [[https://your-frontend-link.onrender.com](https://your-frontend-link.onrender.com)](https://protofolio-website-frontend.onrender.com)
+🔗 **Frontend (Live):** [[https://your-frontend-link.onrender.com](https://your-frontend-link.onrender.com)]
 🔗 **Backend (API):** [https://protofolio-website-1.onrender.com](https://protofolio-website-1.onrender.com)
 
 ---
