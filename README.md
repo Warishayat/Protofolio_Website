@@ -105,7 +105,7 @@ Create a `.env` file:
 ```env
 PORT=3000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=ALLAHISbest
+JWT_SECRET=your secret
 NODE_ENV=production
 ```
 
